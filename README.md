@@ -20,13 +20,12 @@
 
 <h1 align="center">Hi there 👋, I'm Manu Pinero but you can call me Manu😀</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manupinero&label=Profile%20views&color=0e75b6&style=flat" alt="manupinero"/></p>
-<br>
 
 - 🔭 I’m currently working as **a Freelancer**
 
 - 👨‍💻 All of my projects are available at [######](######)
 
-- 📫 How to reach me **n30slolo@gmail.com**
+- 📫 How to reach me **manuperez.pinero@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
